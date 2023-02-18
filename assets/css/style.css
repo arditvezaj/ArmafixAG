@@ -688,6 +688,7 @@ section {
 .cta {
   background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.8)), url("../img/home/cta.JPG") center center;
   background-size: cover;
+  height: 16rem;
   padding: 60px 0;
 }
 
